@@ -1,6 +1,6 @@
 # 📚 Small stuff in C
 
-Small toy applications in C to maintain my skills hopefully
+Small toy applications in C for fun!
 
 ---
 
@@ -14,7 +14,7 @@ Small toy applications in C to maintain my skills hopefully
 
 ### 🔹 Linked Lists
 
-- Singly Linked List
+- Singly Linked List -> singlell.c
 - Doubly Linked List
 - Circular Linked List
 
@@ -121,3 +121,9 @@ Small toy applications in C to maintain my skills hopefully
 - Naive Substring Search
 - KMP Algorithm
 - Rabin-Karp (Basic)
+
+### Networking concepts
+
+- Basic socket server -> server.c
+- Basic socket client -> client.c
+- Sync Multiplexing for multiple client connections -> poll.c
